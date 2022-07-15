@@ -32,3 +32,7 @@ tar -zxvf RGB_LED_HAT.tar.gz
 cd RGB_LED_HAT/web-RGB/
 python3 main.py
 ```
+
+---
+
+Copyright (c) 2022 YA-androidapp(<https://github.com/YA-androidapp>) All rights reserved.
